@@ -7,3 +7,4 @@ username
 comment
 time
 
+// on 14.06.22 work witout ajax and jquery
