@@ -1,5 +1,5 @@
 # for-company
-we use DB from 3 cols :
+we use DB from 4 cols :
 id 
 username
 comment
